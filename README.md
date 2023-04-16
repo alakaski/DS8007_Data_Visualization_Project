@@ -4,6 +4,9 @@ Student: Alicia Kaski <br>
 Student Number: 501075806 <br>
 Professor: Dr. Sanaz Mohammad Jafari
 
+# Abstract
+This study aimed to create data visualizations to provide valuable travel insights for both travelers and hosts on Airbnb's website. The proposed Travelers Insight Dashboard would answer questions about pricing by weekday, month, and location, while the Host Insight Dashboard would offer information on amenities that impact price and feedback to improve guest experiences. Python packages like plotly, NLTK, and Wordcloud were used to perform this study.
+
 # Dataset
 The dataset used for this project was the Seattle Airbnb Open Dataset which contained 3 CSV files: listings.csv, calendar.csv, and reviews.csv. <br>
 Given that the files exceed the 25MB GitHub limit, please download the three files directly from https://www.kaggle.com/datasets/airbnb/seattle?resource=download prior to running the code. 
