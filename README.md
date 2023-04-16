@@ -8,6 +8,7 @@ Dr. Sanaz Mohammad Jafari
 The dataset used for this project was the Seattle Airbnb Open Dataset which contained 3 CSV files: listings.csv, calendar.csv, and reviews.csv. 
 Given that the files exceed the 25MB GitHub limit, please download the three files directly from https://www.kaggle.com/datasets/airbnb/seattle?resource=download prior to running the code. 
 
-# Files
+How to Run Code
 
-EDA & Data Visualizations
+To run the code as a Python notebook, please go to: https://colab.research.google.com/drive/1pUf-ZmORrV3EydGw9smEMB_QRTr6dAvL?usp=sharing. 
+To run the code as a Python file, the code is available 
