@@ -1,8 +1,8 @@
 # Visualizing Airbnb Data: Insights for Travelers and Hosts
 
-Alicia Kaski
-501075806
-Dr. Sanaz Mohammad Jafari
+Student: Alicia Kaski <br>
+Student Number: 501075806 <br>
+Professor: Dr. Sanaz Mohammad Jafari
 
 # Dataset
 The dataset used for this project was the Seattle Airbnb Open Dataset which contained 3 CSV files: listings.csv, calendar.csv, and reviews.csv. <br><br>
