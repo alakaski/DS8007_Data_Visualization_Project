@@ -1,7 +1,6 @@
 # Visualizing Airbnb Data: Insights for Travelers and Hosts
 
 Student: Alicia Kaski <br>
-Student Number: 501075806 <br>
 Professor: Dr. Sanaz Mohammad Jafari
 
 # Abstract
