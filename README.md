@@ -1,7 +1,4 @@
-# Visualizing Airbnb Data: Insights for Travelers and Hosts
-
-Student: Alicia Kaski <br>
-Professor: Dr. Sanaz Mohammad Jafari
+## Visualizing Airbnb Data: Insights for Travelers and Hosts
 
 # Abstract
 This study aimed to create data visualizations to provide valuable travel insights for both travelers and hosts on Airbnb's website. The proposed Travelers Insight Dashboard would answer questions about pricing by weekday, month, and location, while the Host Insight Dashboard would offer information on amenities that impact price and feedback to improve guest experiences. Python packages like plotly, NLTK, and Wordcloud were used to perform this study.
